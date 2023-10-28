@@ -16,16 +16,16 @@ Go to the CurseForge Launcher's download page: (https://www.curseforge.com/downl
 
 The page should look something like this:
 
-![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/1489f666-8ca9-4bf7-bb8b-8a6397249641)
+![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/4ca4e790-916a-43ce-8270-301a6905dc52)
 
 ### STEP 2
 **For Windows users,** click on the "Download Standalone" button and save the given .exe to your download folder.
 
-![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/ef57a91d-dec1-42a4-a491-7d81690cbbde)
+![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/d59d7618-6463-4d6a-a28b-a726ad0308e8)
 
 **For Mac users,** scroll down a bit and click the "CurseForge standalone" button for Mac and save the given .exe to your download folder.
 
-![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/d39923fd-fdbd-4b5d-a71a-f8dea65162a4)
+![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/b2e09966-7b02-4857-8edc-72131fc9147f)
 
 ### STEP 3
 Open the exe folder you just downloaded to initiate.
@@ -36,34 +36,34 @@ It should begin to install the app now.
 ### STEP 4
 Once the app is installed open it and click on Minecraft.
 
-![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/994f0b2b-e535-4b0f-bf47-568b2826f9fe)
+![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/8b5f1aca-0485-48b0-86f9-2ed7684051f5)
 
 ### STEP 5
 Click on "Create Custom Profile" (Both buttons lead to the same result)
 
-![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/5777e5bb-e6b9-45b1-b1fc-6d4ba2671f1e)
+![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/67da6de2-ace2-4bfe-aa89-bba96df2f931)
 
 ### STEP 6
 Come back to here and install the latest Madness Server Modpack(one with the .zip extension)
 
 [Go to The Latest Madness Server Modpack]([(Latest)Madness-Server-Modpack/Madness-1.20.1-v0.0.1.zip](https://github.com/CoreOptd/Madness-Server-Guide/blob/main/(Latest)Madness%20Server%20Modpack/Madness%201.20.1-v0.0.1.zip))
 
-![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/6e3c1a20-122b-4d68-b7b6-03239d220ff0)
-![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/e6cc25ea-a7a0-485e-9737-f77af474a865)
-![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/b321a330-7269-4ff5-a8fe-30eba6bc814d)
+![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/258b4d35-1d10-4962-b945-7bcd0047ebe7)
+![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/4eb03982-0ce7-40c0-b3e9-49c799478d94)
+![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/7d3d2b5c-5cf0-4df0-978f-30a68e26bc67)
 
 And then go back to the CurseForge app and click on the underlined text that says "import" and select the "Madness 1.20.1-v0.0.1.zip" folder. (The version might be different by the time you are reading this, so don't look into the details)
 
-![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/bd6fb2b8-e831-4789-a73d-eea50688f632)
-![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/df0734f4-4e2e-465d-836e-b72bb3d24d60)
+![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/da3eb7e5-15b7-4927-aa0d-c175c1d82694)
+![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/c0571192-75dc-4628-badb-1c155494ab85)
 
 After this it will start installing the profile.
 
 ### STEP 7
 After the installation is done click on the imported profile and press play.
 
-![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/03ad93b4-ebc3-4efd-8fac-4ee13cf99c92)
-![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/af0399b4-8dfa-481a-a6f6-53d6382c3c23)
+![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/ec654481-273b-46fd-a176-8e4fa304dcb3)
+![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/8bf05638-66d5-49d5-8713-24ea1907c913)
 
 The Minecraft Launcher will open up in which you will have to log in with your minecraft account.
 After that just press play and you will be in the game.
@@ -79,15 +79,15 @@ Go to the Official Forge website and find the version of the Forge Installer you
 
 [[GO TO THE OFFICIAL FORGE WEBSITE]](https://files.minecraftforge.net/net/minecraftforge/forge/)
 
-![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/05d4a89a-259b-412f-bbb9-a2d573f7e085)
-![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/f8d90af0-699e-432a-88aa-e5670b1e1678)
+![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/739317bc-8414-414d-9d63-ff9ac20c775f)
+![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/75a1c321-2155-4912-a440-8e026630409f)
 
 ### STEP 2
 Wait 5 seconds until the "Skip" button apperas on the top right corner of the advertisement screen and then save the given .jar to your download folder.
 
-![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/6ceea179-b3fe-4860-8bb9-8f21446ae6c9)
+![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/1547d7dd-aab3-40fa-a089-3f70822235cd)
 
-This will download the PENIS
+This will download the Forge Installer Wizard.
 
 
 

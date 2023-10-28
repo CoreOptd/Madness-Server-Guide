@@ -18,11 +18,11 @@ The page should look something like this:
 ![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/1489f666-8ca9-4bf7-bb8b-8a6397249641)
 
 ### STEP 2
-**For Windows users,** click on the "Download Standalone" button and save the given exe to your download folder.
+**For Windows users,** click on the "Download Standalone" button and save the given .exe to your download folder.
 
 ![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/ef57a91d-dec1-42a4-a491-7d81690cbbde)
 
-**For Mac users,** scroll down a bit and click the "CurseForge standalone" button for Mac and save the given exe to your download folder.
+**For Mac users,** scroll down a bit and click the "CurseForge standalone" button for Mac and save the given .exe to your download folder.
 
 ![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/d39923fd-fdbd-4b5d-a71a-f8dea65162a4)
 
@@ -69,4 +69,33 @@ After that just press play and you will be in the game.
 Now the only thing left for you to do is go to Multiplayer and enter the server ip adress and join!
 
 ## Using The Minecraft Launcher
-This is the classic method
+This is the classic way of installing the mods.
+
+### STEP 1
+Go to the Official Forge website and find the version of the Forge Installer you need and press the "Installer button"
+
+(The version you need to install is **47.2.0**)
+
+[[GO TO THE OFFICIAL FORGE WEBSITE]](https://files.minecraftforge.net/net/minecraftforge/forge/)
+
+![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/05d4a89a-259b-412f-bbb9-a2d573f7e085)
+![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/f8d90af0-699e-432a-88aa-e5670b1e1678)
+
+### STEP 2
+Wait 5 seconds until the "Skip" button apperas on the top right corner of the advertisement screen and then save the given .jar to your download folder.
+
+![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/6ceea179-b3fe-4860-8bb9-8f21446ae6c9)
+
+This will download the
+
+
+
+
+
+
+
+
+
+
+
+

@@ -11,13 +11,14 @@ There are 2 methods to install the modpack of The Madness Server (Which one you 
 ## Using The CurseForge Launcher (Recommended)
 The CurseForge launcher, allows you to have multiple profiles of Minecraft with their own designated worlds, resourcepacks, mods etc. and it also allows for profile exporting and importing which is one of the reasons that it is recommended.
 
-> [!IMPORTANT]
+> [!NOTE]
 > The following 4 steps are for those who don't have the CurseForge app installed(you can skip these steps if you have the app already installed)
 
 ### STEP 1
 Go to the CurseForge Launcher's download page: (https://www.curseforge.com/download/app)
 
-The page should look something like this:
+> [!IMPORTANT]
+> The page should look something like this:
 
 ![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/4ca4e790-916a-43ce-8270-301a6905dc52)
 
@@ -31,9 +32,12 @@ The page should look something like this:
 ![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/b2e09966-7b02-4857-8edc-72131fc9147f)
 
 ### STEP 3
-Open the exe folder you just downloaded to initiate.
+Open the .exe folder you just downloaded to start the installing process.
+
 On the first page choose your language(if you prefer) and then click next on the bottom right corner.
+
 On the second page you can change the destination of the app or continue with the given destination, and then check the "I have read and accept the Terms and Privacy Policy". After that click next on the bottom right corner.
+
 It should begin to install the app now.
 
 ### STEP 4
@@ -42,14 +46,17 @@ Once the app is installed open it and click on Minecraft.
 ![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/8b5f1aca-0485-48b0-86f9-2ed7684051f5)
 
 ### STEP 5
-Click on "Create Custom Profile" (Both buttons lead to the same result)
+Click on "Create Custom Profile"
+> [!NOTE]
+> Both buttons lead to the same result
 
 ![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/67da6de2-ace2-4bfe-aa89-bba96df2f931)
 
 ### STEP 6
 Come back to here and install the latest Madness Server Modpack(one with the .zip extension)
 
-[Go to The Latest Madness Server Modpack](https://github.com/CoreOptd/Madness-Server-Guide/blob/main/(Latest)Madness%20Server%20Modpack/Madness%201.20.1-v0.0.1.zip)
+> [!IMPORTANT]
+> [Go to The Latest Madness Server Modpack](https://github.com/CoreOptd/Madness-Server-Guide/blob/main/(Latest)Madness%20Server%20Modpack/Madness%201.20.1-v0.0.1.zip)
 
 ![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/258b4d35-1d10-4962-b945-7bcd0047ebe7)
 ![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/4eb03982-0ce7-40c0-b3e9-49c799478d94)

@@ -13,6 +13,7 @@ The CurseForge launcher, allows you to have multiple profiles of Minecraft with 
 
 > [!NOTE]
 > The following 4 steps are for those who don't have the CurseForge app installed(you can skip these steps if you have the app already installed)
+> If you have CurseForge already you can skip the the 5th Step [HERE](https://github.com/CoreOptd/Madness-Server-Guide/tree/main#step-5)
 
 ### STEP 1
 Go to the CurseForge Launcher's download page: (https://www.curseforge.com/download/app)

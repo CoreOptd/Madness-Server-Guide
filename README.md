@@ -38,13 +38,35 @@ Click on "Create Custom Profile" (Both buttons lead to the same result)
 ![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/5777e5bb-e6b9-45b1-b1fc-6d4ba2671f1e)
 
 ### STEP 6
-Click on the underlined text that says "import"
+Come back to here and install the latest Madness Server Modpack(one with the .zip extension)
+
+[Go to The Latest Madness Server Modpack]((Latest)Madness-Server-Modpack/Madness-1.20.1-v0.0.1.zip)
+
+![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/6e3c1a20-122b-4d68-b7b6-03239d220ff0)
+![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/e6cc25ea-a7a0-485e-9737-f77af474a865)
+![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/b321a330-7269-4ff5-a8fe-30eba6bc814d)
+
+And then go back to the CurseForge app and click on the underlined text that says "import" and select the "Madness 1.20.1-v0.0.1.zip" folder. (The version might be different by the time you are reading this, so don't look into the details)
 
 ![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/bd6fb2b8-e831-4789-a73d-eea50688f632)
-
-And then select the Madness .zip folder
-
 ![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/df0734f4-4e2e-465d-836e-b72bb3d24d60)
+
+After this it will start installing the profile.
+
+### STEP 7
+After the installation is done click on the imported profile and press play.
+
+![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/03ad93b4-ebc3-4efd-8fac-4ee13cf99c92)
+![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/af0399b4-8dfa-481a-a6f6-53d6382c3c23)
+
+The Minecraft Launcher will open up in which you will have to log in with your minecraft account.
+After that just press play and you will be in the game.
+Now the only thing left for you to do is go to Multiplayer and enter the server ip adress and join!
+
+
+
+
+
 
 
 

@@ -56,7 +56,7 @@ Click on "Create Custom Profile"
 Come back to here and install the latest Madness Server Modpack(one with the .zip extension)
 
 > [!IMPORTANT]
-> Go to The Latest Madness Server Modpack [HERE](https://github.com/CoreOptd/Madness-Server-Guide/blob/main/(Latest)Madness%20Server%20Modpack/Madness%201.20.1-v0.0.1.zip)
+> Go to The Latest Madness Server Modpack [[HERE]](https://github.com/CoreOptd/Madness-Server-Guide/blob/main/(Latest)Madness%20Server%20Modpack/Madness%201.20.1-v0.0.2.zip)
 
 ![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/258b4d35-1d10-4962-b945-7bcd0047ebe7)
 ![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/4eb03982-0ce7-40c0-b3e9-49c799478d94)

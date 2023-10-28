@@ -87,7 +87,7 @@ Wait 5 seconds until the "Skip" button apperas on the top right corner of the ad
 
 ![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/6ceea179-b3fe-4860-8bb9-8f21446ae6c9)
 
-This will download the
+This will download the PENIS
 
 
 

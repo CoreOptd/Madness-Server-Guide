@@ -5,12 +5,14 @@ There are 2 methods to install the modpack of The Madness Server (Which one you 
 * Method 1 Using The CurseForge Launcher (Recommended) [[CLICK ME]](https://github.com/CoreOptd/Madness-Server-Guide/blob/main/README.md#using-the-curseforge-launcher-recommended)
 
 * Method 2 Using The Minecraft Launcher (If you don't know how to install mods like this just cry about it and look it up on youtube)\
-The mods including the folder is located [[HERE]](https://github.com/CoreOptd/Madness-Server-Guide/tree/main/mods)
+> [!IMPORTANT]
+> The folder including the mods is located [[HERE]](https://github.com/CoreOptd/Madness-Server-Guide/tree/main/mods)
 
 ## Using The CurseForge Launcher (Recommended)
 The CurseForge launcher, allows you to have multiple profiles of Minecraft with their own designated worlds, resourcepacks, mods etc. and it also allows for profile exporting and importing which is one of the reasons that it is recommended.
 
-_The following 4 steps are for those who don't have the CurseForge app installed(you can skip these steps if you have the app already installed)_
+> [!IMPORTANT]
+> The following 4 steps are for those who don't have the CurseForge app installed(you can skip these steps if you have the app already installed)
 
 ### STEP 1
 Go to the CurseForge Launcher's download page: (https://www.curseforge.com/download/app)

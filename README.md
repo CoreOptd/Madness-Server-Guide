@@ -4,7 +4,8 @@ There are 2 methods to install the modpack of The Madness Server (Which one you 
 
 * Method 1 Using The CurseForge Launcher (Recommended) [[CLICK ME]](https://github.com/CoreOptd/Madness-Server-Guide/blob/main/README.md#using-the-curseforge-launcher-recommended)
 
-* Method 2 Using The Minecraft Launcher [[CLICK ME]](https://github.com/CoreOptd/Madness-Server-Guide/blob/main/README.md#using-the-minecraft-launcher)
+* Method 2 Using The Minecraft Launcher (If you don't know how to install mods like this just cry about it and look it up on youtube)
+[^1] The mods including the folder is located [[HERE]](https://github.com/CoreOptd/Madness-Server-Guide/tree/main/mods)
 
 ## Using The CurseForge Launcher (Recommended)
 The CurseForge launcher, allows you to have multiple profiles of Minecraft with their own designated worlds, resourcepacks, mods etc. and it also allows for profile exporting and importing which is one of the reasons that it is recommended.
@@ -68,26 +69,6 @@ After the installation is done click on the imported profile and press play.
 The Minecraft Launcher will open up in which you will have to log in with your minecraft account.
 After that just press play and you will be in the game.
 Now the only thing left for you to do is go to Multiplayer and enter the server ip adress and join!
-
-## Using The Minecraft Launcher
-This is the classic way of installing the mods.
-
-### STEP 1
-Go to the Official Forge website and find the version of the Forge Installer you need and press the "Installer button"
-
-(The version you need to install is **47.2.0**)
-
-[[GO TO THE OFFICIAL FORGE WEBSITE]](https://files.minecraftforge.net/net/minecraftforge/forge/)
-
-![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/739317bc-8414-414d-9d63-ff9ac20c775f)
-![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/75a1c321-2155-4912-a440-8e026630409f)
-
-### STEP 2
-Wait 5 seconds until the "Skip" button apperas on the top right corner of the advertisement screen and then save the given .jar to your download folder.
-
-![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/1547d7dd-aab3-40fa-a089-3f70822235cd)
-
-This will download the Forge Installer Wizard.
 
 
 

@@ -15,6 +15,7 @@ _The following 4 steps are for those who don't have the CurseForge app installed
 Go to the CurseForge Launcher's download page: (https://www.curseforge.com/download/app)
 
 The page should look something like this:
+
 ![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/1489f666-8ca9-4bf7-bb8b-8a6397249641)
 
 ### STEP 2
@@ -45,7 +46,7 @@ Click on "Create Custom Profile" (Both buttons lead to the same result)
 ### STEP 6
 Come back to here and install the latest Madness Server Modpack(one with the .zip extension)
 
-[Go to The Latest Madness Server Modpack]((Latest)Madness-Server-Modpack/Madness-1.20.1-v0.0.1.zip)
+[Go to The Latest Madness Server Modpack]([(Latest)Madness-Server-Modpack/Madness-1.20.1-v0.0.1.zip](https://github.com/CoreOptd/Madness-Server-Guide/blob/main/(Latest)Madness%20Server%20Modpack/Madness%201.20.1-v0.0.1.zip))
 
 ![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/6e3c1a20-122b-4d68-b7b6-03239d220ff0)
 ![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/e6cc25ea-a7a0-485e-9737-f77af474a865)

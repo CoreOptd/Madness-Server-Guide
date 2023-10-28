@@ -13,7 +13,7 @@ The CurseForge launcher, allows you to have multiple profiles of Minecraft with 
 
 > [!NOTE]
 > The following 4 steps are for those who don't have the CurseForge app installed(you can skip these steps if you have the app already installed)\
-> If you have CurseForge installed already you can skip the the 5th Step [HERE](https://github.com/CoreOptd/Madness-Server-Guide/tree/main#step-5)
+> If you have CurseForge installed already you can skip the the 5th Step [[HERE]](https://github.com/CoreOptd/Madness-Server-Guide/tree/main#step-5)
 
 ### STEP 1
 Go to the CurseForge Launcher's download page: (https://www.curseforge.com/download/app)
@@ -79,7 +79,6 @@ After the installation is done click on the imported profile and press play.
 The Minecraft Launcher will open up in which you will have to log in with your minecraft account.
 After that just press play and you will be in the game.
 Now the only thing left for you to do is go to Multiplayer and enter the server ip adress and join!
-
 
 
 

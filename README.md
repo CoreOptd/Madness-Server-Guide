@@ -1,4 +1,7 @@
 # The Madness Server Guide
+Table of Contents:
+[How to Install The Modpack](https://github.com/CoreOptd/Madness-Server-Guide/blob/main/README.md#how-to-install-the-modpack)
+[How to Add New Mods]()
 ## How to Install The Modpack
 There are 2 methods to install the modpack of The Madness Server (Which one you want to do is up to you)
 
@@ -79,6 +82,8 @@ After the installation is done click on the imported profile and press play.
 The Minecraft Launcher will open up in which you will have to log in with your minecraft account.
 After that just press play and you will be in the game.
 Now the only thing left for you to do is go to Multiplayer and enter the server ip adress and join!
+
+## How to Add New Mods
 
 
 

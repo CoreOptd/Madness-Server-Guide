@@ -61,13 +61,13 @@ Click on "Create Custom Profile"
 Come back to here and install the latest Madness Server Modpack(one with the .zip extension)
 
 > [!IMPORTANT]
-> Go to The Latest Madness Server Modpack [[HERE]](https://github.com/CoreOptd/Madness-Server-Guide/blob/main/(Latest)Madness%20Server%20Modpack/Madness%201.20.1-v0.0.2.zip)
+> Go to The Latest Madness Server Modpack [[HERE]](https://github.com/CoreOptd/Madness-Server-Guide/blob/main/(Latest)Madness%20Server%20Modpack/Madness%201.20.1-v0.0.3.zip)
 
 ![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/258b4d35-1d10-4962-b945-7bcd0047ebe7)
 ![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/4eb03982-0ce7-40c0-b3e9-49c799478d94)
 ![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/3ac7a1c9-0e56-4fce-b22c-c5a29426ebf5)
 
-And then go back to the CurseForge app and click on the underlined text that says "import" and select the "Madness 1.20.1-v0.0.1.zip" folder. (The version might be different by the time you are reading this, so don't look into the details)
+And then go back to the CurseForge app and click on the underlined text that says "import" and select the "Madness 1.20.1-v0.0.3.zip" folder. (The version might be different by the time you are reading this, so don't look into the details)
 
 ![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/da3eb7e5-15b7-4927-aa0d-c175c1d82694)
 ![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/c0571192-75dc-4628-badb-1c155494ab85)

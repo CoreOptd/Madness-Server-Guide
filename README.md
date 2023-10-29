@@ -1,7 +1,8 @@
 # The Madness Server Guide
-Table of Contents:
-[How to Install The Modpack](https://github.com/CoreOptd/Madness-Server-Guide/blob/main/README.md#how-to-install-the-modpack)
-[How to Add New Mods]()
+> [!IMPORTANT]
+> TABLE OF CONTENTS
+>* [[How to Install The Modpack]](https://github.com/CoreOptd/Madness-Server-Guide/blob/main/README.md#how-to-install-the-modpack)
+>* [[How to Add New Mods Onto The Modpack]](https://github.com/CoreOptd/Madness-Server-Guide/blob/main/README.md#how-to-add-new-mods)
 ## How to Install The Modpack
 There are 2 methods to install the modpack of The Madness Server (Which one you want to do is up to you)
 
@@ -84,6 +85,29 @@ After that just press play and you will be in the game.
 Now the only thing left for you to do is go to Multiplayer and enter the server ip adress and join!
 
 ## How to Add New Mods
+> [!NOTE]
+> If you are thinking of adding mods for yourself you can only add Client-Side mods(like Just Enough Items, AppleSkin, OptiForge etc.) that won't work on the server side.\
+> If you are adding new mods because it was announced for you to do so install the mod from the announcement and follow these steps.
+### STEP 1
+Open your CurseForge Launcher and navigate to the Madness profile and press the three dots located left of the "Play" button.
+
+![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/9e85bafa-c83e-40bd-82a0-8b213a18cd68)
+![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/2b3cb480-e0f3-4232-b7c8-3c96dff34fe6)
+
+### STEP 2
+Press the "Open Folder" button to go the profiles local folders.
+
+![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/71f5f15b-c120-44f7-acc3-373dad0d49c9)
+
+### STEP 3
+Go into the folder called "mods" and drag the mod that you have into this folder.
+
+![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/f65422ae-f03e-49d6-981c-3eafc3564f48)
+![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/7d0558c8-4ed8-43a3-92a1-060cb4cd7ad4)
+
+And now you should have your mod installed into your profile!
+
+All you have left to do is open your Minecraft and join the server!
 
 
 

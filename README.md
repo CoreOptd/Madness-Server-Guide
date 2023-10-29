@@ -8,7 +8,7 @@ There are 2 methods to install the modpack of The Madness Server (Which one you 
 
 * Method 1 Using The CurseForge Launcher (Recommended) [[CLICK ME]](https://github.com/CoreOptd/Madness-Server-Guide/blob/main/README.md#using-the-curseforge-launcher-recommended)
 
-* Method 2 Using The Minecraft Launcher (If you don't know how to install mods like this just cry about it and look it up on youtube)\
+* Method 2 Using The Minecraft Launcher (If you don't know how to install mods like this just cry about it and look it up on youtube)
 > [!NOTE]
 > The folder including the mods is located [[HERE]](https://github.com/CoreOptd/Madness-Server-Guide/tree/main/mods)
 
@@ -105,8 +105,7 @@ Go into the folder called "mods" and drag the mod that you have into this folder
 ![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/f65422ae-f03e-49d6-981c-3eafc3564f48)
 ![image](https://github.com/CoreOptd/Madness-Server-Guide/assets/95182007/7d0558c8-4ed8-43a3-92a1-060cb4cd7ad4)
 
-And now you should have your mod installed into your profile!
-
+And now you should have your mod installed into your profile!\
 All you have left to do is open your Minecraft and join the server!
 
 
